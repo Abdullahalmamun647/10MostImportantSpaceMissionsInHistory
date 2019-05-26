@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">10 Most Important Space Missions In History</string>
+
+    <string name="overview">
+
+Some space mission showed us just how far the human race can go, while others made us feel the depths of our sorrow. The crews and crafts involved in these remarkable space missions made great strides in exploring our universe, and they will not soon be forgotten.
+
+
+    </string>
+    <string name="bt1">
+On October 4, 1957, Sputnik I launched from the U.S.S.R. Baikonur Cosmodrome and entered Earth orbit, becoming the first human-made object to enter space. The aluminum-alloy sphere orbited our planet 1,440 times over 21 days before losing its signal and, most importantly, sent the entire world into the Space Age. The Soviet mission shed light on the density of Earth atmosphere and what made a satellite successful. Sputnik I remained in orbit until January 4, 1958, when it burned up reentering our atmosphere.
+    </string>
+
+    <string name="bt2">
+
+Soviet cosmonaut Yuri Gagarin became the first man in space on April 12, 1961, when he circled the Earth in Vostok I. The history-making voyage only lasted 108 minutes before Gagarin ejected himself from the spacecraft and parachuted back to his home planet (this was part of the plan), but changed the way humans look up at the stars forever. Before launching Gagarin into the heavens, the U.S.S.R. performed a test mission using a prototype of the Vostok I along with a dog and man-size dummy.
+
+    </string>
+
+    <string name="bt3">
+Four days after launching from Cape Kennedy in Florida, Neil Armstrong took "one small step for a man, one giant leap for mankind" on July 20, 1969, and became the first human to walk on the moon as part of the Apollo 11 mission. Less than 20 minutes later, Buzz Aldrin, who piloted the lunar module, joined his commander. The two explored the moon on foot for three hours while conducting experiments and collecting samples. After re-joining fellow astronaut Michael Collins, who also made the voyage, Armstrong and Aldrin returned to Earth on July 24.
+    </string>
+
+    <string name="bt4">
+Apollo 13 launched without incident on April 11, 1970, but just 56 hours into the mission, things took a turn. Minutes after a live television broadcast in which Jim Lovell, Jack Swigert, and Fred Haise communicated with people back home, an explosion within the craft made it clear that the crew would not be exploring the Fra Mauro area on the moon, as was initially planned. Due to malfunctioning oxygen tanks, both the crew and everyone in ground control had to come up with numerous on-the-fly fixes to combat lack of power, heat, water, and excess carbon monoxide to get everyone back to Earth safely. Despite the odds, on April 17, they did.
+    </string>
+
+    <string name="bt5">
+The 25th mission of the United States Space Shuttle program launched on January 28, 1986, and tragically ended in just 73 seconds. STS-51-L was the tenth mission to be conducted on the Challenger space shuttle, but a failed rocket booster led to the shuttle disintegration and death of all seven crew members. The launch was scheduled to take place on the 22, but was repeatedly pushed back due to bad weather. The mission goals were to observe Hailey Comet, track satellites, and have Christa McAuliffe, a teacher on board, provide lessons to children in classrooms back home.
+    </string>
+
+    <string name="bt6">
+Launched in 1977 along with its spacecraft sibling, Voyager 2, Voyager 1 is still going strong today. Though its primary mission was to explore Jupiter and Saturn—the craft discovered volcanoes on Jupiter moon and new details about Saturn  rings—Voyager 1 has gone above and beyond in its exploration…literally. Not only did it snap a photo of our entire solar system in 1990, but it crossed into interstellar space in 2012, becoming the first human-made probe to do so.
+    </string>
+
+    <string name="bt7">
+After departing Earth on December 4, 1996, Mars Pathfinder did not reach its namesake until July 4, 1997. When the 23-pound Sojourner rover reached Mars, becoming the first to ever reach another planet, it explored the Ares Vallis area of the red planet and analyzed its atmosphere, climate, and geology. There were concerns about how to land safely on Mars, but a creative approach that surrounded the rover in airbags was successful. The mission brought in evidence suggesting that Mars once had flowing water and that the atmosphere is heated by the planet surface. Sojourner made its final transmission in September, but by then it was already considered a great success.
+    </string>
+
+    <string name="bt8">
+The first pieces of the International Space Station, one from Russia and the other from the United States, left Earth in the fall of 1998. The two were attached in space and added on to piece by piece until November 2, 2000, when the first crew arrived. On board the ISS, astronauts from all over the world continue to work on all sorts of experiments, including exploration of the effects microgravity has on the human body. In this test, they the guinea pigs. Adjustments, both mechanical and diplomatic, have been required over time, yet the crew and politicians at home recently celebrated over 20 years of orbiting the Earth, and in 2018, legislation was approved to extend ISS operations through 2030.
+    </string>
+
+    <string name="bt9">
+On March 7, 2009, Kepler launched from Cape Canaveral, Florida. The mission was to "explore the structure and diversity of planetary systems." While the original Kepler run came to an end in 2013, a second, K2, picked up where its predecessor left off in 2014. The mission was expected to last until 2018, but in August of that year, it was discovered to have fuel remaining. By May of 2016, Kepler had already identified 1,284 new planets. Of that, only nine were considered to be in a habitable zone.
+    </string>
+
+    <string name="bt10">
+After spending an astounding 20 years in space, the Cassini spacecraft and Huygens probe ended their mission on September 15, 2017. A collaboration between NASA, the European Space Agency, and the Italian Space Agency, the craft gathered information on Jupiter during a flyby, flew between Saturn rings, and studied its moons throughout a full seasonal period. The mission came to an end with a final entry into Saturn atmosphere. This decision was made to protect the biological composition of the surrounding moons.
+    </string>
+
+
+</resources>
